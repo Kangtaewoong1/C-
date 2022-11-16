@@ -1,0 +1,4 @@
+﻿  20221116_ktw_test2.cpp
+D:\C-program\20221116\20221116_ktw_test2\20221116_ktw_test2\20221116_ktw_test2.cpp(40,12): warning C4477: 'printf' : 서식 문자열 '%i'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+D:\C-program\20221116\20221116_ktw_test2\20221116_ktw_test2\20221116_ktw_test2.cpp(12,12): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+  20221116_ktw_test2.vcxproj -> D:\C-program\20221116\20221116_ktw_test2\Debug\20221116_ktw_test2.exe
