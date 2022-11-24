@@ -1,0 +1,3 @@
+﻿  20221124_ktw_test1.cpp
+D:\C-program\20221124\20221124_ktw_test1\20221124_ktw_test1\20221124_ktw_test1.cpp(23,11): error C3861: 'find_min': 식별자를 찾을 수 없습니다.
+D:\C-program\20221124\20221124_ktw_test1\20221124_ktw_test1\20221124_ktw_test1.cpp(24,11): error C3861: 'find_max': 식별자를 찾을 수 없습니다.
